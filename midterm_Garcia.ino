@@ -36,7 +36,7 @@ int ir_previousState = 1;
 
 bool SW1_state = 0;
 bool SW2_state = 0;
-// Default switch values
+// Default switch values.
 
 #include "decoder.h"
 
